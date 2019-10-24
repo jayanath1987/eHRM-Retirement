@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="en" datatype="plaintext" original="messages" date="2008-12-18T22:47:25Z" product-name="messages">
+    <header/>
+        <body>
+      <trans-unit id="1">
+        <source>Retirement</source>
+        <target>Retirement</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Service Extension</source>
+        <target>Service Extension</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Employee Name</source>
+        <target>Employee Name</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Service extension</source>
+        <target>Service extension</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Date From</source>
+        <target>Date From</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Date To</source>
+        <target>Date To</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Comment</source>
+        <target>Comment</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Clause</source>
+        <target>Clause</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Under Which Clause was the Service Extended ?</source>
+        <target>Under Which Clause was the Service Extended ?</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Edit</source>
+        <target>Edit</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Reset</source>
+        <target>Reset</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Save</source>
+        <target>Save</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Delete</source>
+        <target>Delete</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Successfully Deleted</source>
+        <target>Successfully Deleted</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Successfully Added</source>
+        <target>Successfully Added</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Successfully Updated</source>
+        <target>Successfully Updated</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Back</source>
+        <target>Back</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Please select a Employee Name</source>
+        <target>Please select a Employee Name</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Form Date is required</source>
+        <target>Form Date is required</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>To Date is required</source>
+        <target>To Date is required</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Length of Clause should be less than 10 characters and required</source>
+        <target>Length of Clause should be less than 10 characters and required</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Special Characters are not allowed</source>
+        <target>Special Characters are not allowed</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Service Extension From date should be less than To date</source>
+        <target>Service Extension From date should be less than To date</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Service Extension has Maximum Point</source>
+        <target>Service Extension has Maximum Point</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Add</source>
+        <target>Add</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Search</source>
+        <target>Search</target>
+      </trans-unit>
+     </body>
+  </file>
+</xliff>
